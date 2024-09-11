@@ -1,1 +1,3 @@
-implement two_network_layer from scratch 
+implement two_network_layer from scratch.
+i encountered lots of trouble in this project. it's not about code and project itself,but the environment.
+first is that colab only give few gpu quota to use.so i have to switch the project to local environment,and install the jupyter and some numpy issues bother me too.And then i found it's very slow to train,even though it's 4090, i would think me and someone share one gpu,and the datas' worker is not enough. i guess that's one reason. haha And finally i trained all kinds of models in different hyperparameters, i found it's lower than 50%,only get 45%.crazy to know that, and i just let it be and put my attention in my paper or another stuff. 
